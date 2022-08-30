@@ -11,9 +11,14 @@
 
 </h4>
 
-<h3 align="center">  <br>
+<h3 align="center">
+
+<br>
 
 Hola, soy Fernando L.C 🇲🇽
+
+![FLC](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/logo.svg)
+
 <br>
 
 </h3>
@@ -24,6 +29,10 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 ```
 
 ## Tecnologías con las que estoy trabajando actuamente 💻
+
+![react](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/react.svg)
+
+![redux](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/redux.svg)
 
 - JavaScript
 - Node.js
