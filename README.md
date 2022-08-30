@@ -15,9 +15,11 @@
 
 <br>
 
-Hola, soy Fernando L.C 🇲🇽
+<img height="100" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/logo.svg">
 
-![FLC](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/logo.svg)
+<br>
+
+Hola, Soy Fernando L.C 🇲🇽
 
 <br>
 
@@ -30,9 +32,12 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 
 ## Tecnologías con las que estoy trabajando actuamente 💻
 
-![react](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/react.svg)
-
-![redux](https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/redux.svg)
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/react.svg"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/redux.svg"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/sass.svg"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/webpack.svg"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/prettier.svg"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/ferch01992/assets/ced3ee1a5c7c3c8a075a56248b75cd62172bb190/images/ferch01992/tegnologias/eslint.svg"></code>
 
 - JavaScript
 - Node.js
