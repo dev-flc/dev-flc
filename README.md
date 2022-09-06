@@ -54,7 +54,7 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 
 ## Algunos datos sobre mi👨🏻‍💻
 
-- Tengo una librería en la cual se encarga de validar campos de un formulario [react-validations-components](https://www.npmjs.com/package/react-validations-components), por cierto ya estoy trabajando en una segunda versión [form-validator-input](https://github.com/ferch01992/form-validator-input)
+- Tengo una librería en la cual se encarga de validar campos de un formulario [react-validations-components](https://www.npmjs.com/package/react-validations-components), por cierto ya estoy trabajando en una segunda versión [validations-forms](https://github.com/ferch01992/validations-forms)
 
 - Tengo un repositório como template para iniciar el desarrollo de una aplicacion con react. [react_template](https://github.com/ferch01992/react_template)
 
@@ -68,11 +68,11 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 
 ![ferch01992 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferch01992&show_icons=true&theme=tokyonight)
 
-[![ferch01992 Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ferch01992&layout=compact=true&theme=tokyonight)](https://github.com/ferch01992/)
+<!--[![ferch01992 Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=ferch01992&layout=compact=true&theme=tokyonight)](https://github.com/ferch01992/)-->
 
 ## Proyectos de tiempo libre
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferch01992&repo=react_template&theme=tokyonight)](https://github.com/ferch01992/react_template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferch01992&repo=form-validator-input&theme=tokyonight)](https://github.com/ferch01992/form-validator-input)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferch01992&repo=validations-forms&theme=tokyonight)](https://github.com/ferch01992/validations-forms)
 
 ![contribution animation](https://raw.githubusercontent.com/ferch01992/assets/e84cc8921a355a1f7c64cbf2590552666bf5b2b9/images/ferch01992/contribution.svg)
