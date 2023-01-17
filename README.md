@@ -76,3 +76,13 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferch01992&repo=validations-forms&theme=tokyonight)](https://github.com/ferch01992/validations-forms)
 
 ![contribution animation](https://raw.githubusercontent.com/ferch01992/assets/e84cc8921a355a1f7c64cbf2590552666bf5b2b9/images/ferch01992/contribution.svg)
+
+
+<h3 align="center">
+<br>
+	<img src="https://profile-counter.glitch.me/ferch01992/count.svg" />
+
+conteo de visitantes
+
+<br>
+</h3>
