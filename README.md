@@ -1,6 +1,8 @@
 <h4 align="center">
 
-![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gif?raw=true)
+<!--![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gif?raw=true)-->
+![developer animation](https://raw.githubusercontent.com/dev-flc/assets/master/images/ferch01992/developer.gif)
+
 
 <hr>
 
