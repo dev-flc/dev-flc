@@ -2,7 +2,7 @@
 
 ![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gifraw=true)
 
-![developer animation](https://raw.githubusercontent.com/dev-flc/assets/master/images/ferch01992/developer.gif)
+![developer animations](https://raw.githubusercontent.com/dev-flc/assets/master/images/ferch01992/developer.gif)
 
 
 ----
