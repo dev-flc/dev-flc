@@ -1,10 +1,11 @@
 <h4 align="center">
 
-<!--![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gif?raw=true)-->
+![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gifraw=true)
+
 ![developer animation](https://raw.githubusercontent.com/dev-flc/assets/master/images/ferch01992/developer.gif)
 
 
-<hr>
+----
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dev.flc)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.flc)
@@ -69,7 +70,7 @@ Me ha fascinado la informática desde que era un niño y actualmente me he dedic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-flc&repo=react-template&theme=tokyonight)](https://github.com/dev-flc/react-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-flc&repo=validations-forms&theme=tokyonight)](https://github.com/dev-flc/validations-forms)
 
-![contribution animation](https://raw.githubusercontent.com/dev-flc/assets/8d1a2ddff5bb9bbdc021bc72e7bdbbb493eb540e/images/ferch01992/contribution.svg)
+![contribution animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/contribution.svg?raw=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
