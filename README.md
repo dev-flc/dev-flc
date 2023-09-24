@@ -1,9 +1,6 @@
 <h4 align="center">
 
-![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gifraw=true)
-
-![developer animations](https://raw.githubusercontent.com/dev-flc/assets/master/images/ferch01992/developer.gif)
-
+![developer animation](https://github.com/dev-flc/assets/blob/master/images/ferch01992/developer.gif?raw=true)
 
 ----
 
